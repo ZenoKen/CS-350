@@ -1,5 +1,11 @@
 # CS-350
 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Project README</title>
+</head>
 <body>
     <h1>Project README</h1>
 
@@ -48,3 +54,4 @@
         <li><strong>Clear Naming Conventions:</strong> Meaningful variable and function names were chosen to enhance code clarity.</li>
     </ul>
 </body>
+</html>
