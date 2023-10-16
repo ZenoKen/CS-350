@@ -56,6 +56,3 @@ To make the project maintainable, readable, and adaptable, I implemented the fol
 
 - **Clear Naming Conventions**: Meaningful variable and function names were chosen to enhance code clarity.
 
----
-
-This README file now includes information about user input for adjusting the setpoint, providing a clearer understanding of the project's functionality. Please customize this template with any additional project details and experiences.
